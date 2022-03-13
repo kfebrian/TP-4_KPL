@@ -1,11 +1,14 @@
-﻿class HaloGeneric{
-	public void SapaUser(string x)
+class DataGeneric<T>
+{
+	private T Data { get; set; }
+
+
+
+	public void PrintData()
 	{
-		Console.WriteLine("Halo user "+x);
+		Console.WriteLine("Data yang tersimpan adalah " + this.Data);
 	}
 
-	void Main()
-	{
-		SapaUser("Kevin");
-	}
+
+	
 }
