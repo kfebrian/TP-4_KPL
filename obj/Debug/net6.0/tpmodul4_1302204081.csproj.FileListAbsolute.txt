@@ -1,0 +1,5 @@
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP4\tpmodul4_1302204081\tpmodul4_1302204081\obj\Debug\net6.0\tpmodul4_1302204081.csproj.AssemblyReference.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP4\tpmodul4_1302204081\tpmodul4_1302204081\obj\Debug\net6.0\tpmodul4_1302204081.GeneratedMSBuildEditorConfig.editorconfig
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP4\tpmodul4_1302204081\tpmodul4_1302204081\obj\Debug\net6.0\tpmodul4_1302204081.AssemblyInfoInputs.cache
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP4\tpmodul4_1302204081\tpmodul4_1302204081\obj\Debug\net6.0\tpmodul4_1302204081.AssemblyInfo.cs
+C:\College\Programming\Konstruksi Perangkat Lunak\TP\TP4\tpmodul4_1302204081\tpmodul4_1302204081\obj\Debug\net6.0\tpmodul4_1302204081.csproj.CoreCompileInputs.cache
